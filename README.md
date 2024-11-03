@@ -11,7 +11,7 @@ Remove Duplicate Entries: Ensured each sale is unique.
 Handle Missing Values: Filled in missing values or removed incomplete entries.
 
 Standardize Formats: Ensured dates and times were in a consistent format and monetary values were correctly formatted as currency.
-# Dashboard Overview
+## Dashboard Overview
 The Sales Insights Dashboard provides a comprehensive view of sales performance through various visualizations and key metrics.
 
 ## Key Metrics (Cards)
@@ -21,7 +21,7 @@ Total Sales Quantity: The total number of units sold.
 
 Total Average Sales: The average revenue generated per sale.
 
-# Visualizations
+## Visualizations
 ### Line Chart: Revenue Trend
 
 Description: Displays the trend of revenue over time.
